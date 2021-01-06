@@ -17,7 +17,8 @@ I used scikit-learn to computer the cosine similarity
 ```
 
 ```
-Run the file using below command
-python3 app.py
+Run the file using below command ; 
+In linux :
+    python3 app.py
 ```
 

@@ -16,9 +16,9 @@ similarities between them by using cosine similarity
 I used scikit-learn to computer the cosine similarity
 ```
 
+Run the file in teminal using below command :
 ```
-Run the file using below command ; 
-In linux :
-    python3 app.py
-```
+In linux
+python3 app.py
 
+```
